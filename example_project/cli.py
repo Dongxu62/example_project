@@ -21,3 +21,5 @@ if __name__ == "__main__":
     sys.exit(main())  # pragma: no cover
     
     print('Hello dy62!!!')
+    print('Hello dy62!!!')
+    print('Hello dy62!!!')
